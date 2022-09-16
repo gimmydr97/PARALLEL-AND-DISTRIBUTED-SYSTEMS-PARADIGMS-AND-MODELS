@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "mutex": "cpp",
+        "thread": "cpp",
+        "ctime": "cpp",
+        "future": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
